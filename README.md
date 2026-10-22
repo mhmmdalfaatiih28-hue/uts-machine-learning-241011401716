@@ -8,10 +8,10 @@ Repositori ini berisi penyelesaian Tugas Tengah Semester (UTS) mata kuliah **Mac
 
 ## Identitas Mahasiswa
 
-- **Nama**  : [Nama Lengkap Anda]
+- **Nama**  : Muhammad Al - Fatih
 - **NIM**   : 241011401716
-- **Kelas** : Reg B / Reg C *(pilih salah satu)*
-- **Random State** : 16 *(diambil dari 2 digit terakhir NIM)*
+- **Kelas** : Reg B 
+- **Random State** : 16
 
 ---
 
